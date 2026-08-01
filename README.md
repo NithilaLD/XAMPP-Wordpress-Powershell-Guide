@@ -107,7 +107,7 @@ The complete guide is available in:
 **[Complete Guide.pdf](./Complete%20Guide.pdf)**
 
 It contains detailed instructions with screenshots and PowerShell commands for every step of the installation and configuration process.
-The powershell commands is there as a seperate file with the name Powershell Commands.md
+<br>The powershell commands is also there as a seperate file with the name Powershell Commands.md
 
 ---
 
