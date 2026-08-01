@@ -100,7 +100,7 @@ After completing this guide, you will be able to:
 
 The complete guide is available in:
 
-📄 **[Complete Guide.pdf](./Complete%20Guide.pdf)**
+**[Complete Guide.pdf](./Complete%20Guide.pdf)**
 
 It contains detailed instructions with screenshots and PowerShell commands for every step of the installation and configuration process.
 
