@@ -93,7 +93,7 @@ After completing this guide, you will be able to:
 ```
 .
 ├── Complete Guide.pdf
-├── Cover Image.png
+├── Cover.png
 ├── Powershell Commands.md
 ├── README.md
 ```
