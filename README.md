@@ -193,8 +193,8 @@ Use this guide at your own risk. The author is not responsible for any data loss
 **Dulan Nithila Liyanarachchi**
 
 - Undergraduate Researcher
+- Web and Software Developer
 - Cybersecurity Enthusiast
-- Software Developer
 
 **Portfolio:** https://nithilald.github.io/Dulan-Nithila-Liyanarachchi/
 
