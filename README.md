@@ -94,7 +94,6 @@ After completing this guide, you will be able to:
 .
 ├── Complete Guide.pdf
 ├── Cover Image.png
-├── LICENSE
 ├── Powershell Commands.md
 ├── README.md
 ```
