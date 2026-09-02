@@ -1,7 +1,14 @@
 # Complete Guide to XAMPP Installation, Service Setup, Configuration, and WordPress Deployment using PowerShell
 
 > A comprehensive step-by-step guide for installing XAMPP, configuring Apache and MySQL as Windows services, deploying WordPress, and upgrading PHP and phpMyAdmin using Windows PowerShell.<br><br>
-Article Link : https://www.linkedin.com/pulse/complete-guide-installing-xampp-configuring-apache-liyanarachchi-6fqzc<br><br>
+
+Full article is also available on the following platforms:
+
+* **LinkedIn:** [Read on LinkedIn](https://www.linkedin.com/pulse/complete-guide-installing-xampp-configuring-apache-liyanarachchi-6fqzc/)
+* **Medium:** [Read on Medium](https://dulannithilaliyanarachchi.medium.com/a-complete-guide-to-install-xampp-configure-apache-mysql-services-and-deploy-wordpress-b6076092f948)
+* **AWS:** [Read on AWS](https://builder.aws.com/content/3ImJ4y1l6v3vxDM6zoSjnTskHRi/a-complete-guide-to-install-xampp-configure-apache-and-mysql-services-and-deploy-wordpress-using-powershell-commands)
+* **DEV Community:** [Read on DEV Community](https://dev.to/dulannithilaliyanarachchi/a-complete-guide-to-install-xampp-configure-apache-mysql-services-and-deploy-wordpress-using-3f0h)
+
 <img src="Cover.png"/>
 
 ---
