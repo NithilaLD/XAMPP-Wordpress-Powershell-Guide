@@ -2,8 +2,6 @@
 
 > A comprehensive step-by-step guide for installing XAMPP, configuring Apache and MySQL as Windows services, deploying WordPress, and upgrading PHP and phpMyAdmin using Windows PowerShell.
 
-<br><br>
-
 Full article is also available on the following platforms:
 
 * **LinkedIn:** [Read on LinkedIn](https://www.linkedin.com/pulse/complete-guide-installing-xampp-configuring-apache-liyanarachchi-6fqzc/)
